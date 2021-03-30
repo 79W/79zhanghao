@@ -9,4 +9,4 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![ViewCount](https://views.whatilearened.today/views/github/79zhanghao/79zhanghao.svg?cache=remove)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamy-TZK&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=79zhanghao&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
